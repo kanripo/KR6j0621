@@ -1,21 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:29.124631
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 佛說無量壽大智陀羅尼
 #+PROPERTY: CBETA_ID T21n1389
 #+PROPERTY: ID KR6j0621
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1389
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0621_T_001-0907b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1389¶
-
- 佛說無量壽大智陀羅尼¶
+No. 1389¶
+佛說無量壽大智陀羅尼¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+西天譯經三藏朝散大夫試光祿卿明教大師臣法賢奉　詔譯¶
 
 那謨(引)婆誐嚩帝(引一)阿波哩彌多(引)喻(二)倪也¶
 (二合引)那酥尾儞室唧(二合)多(三)帝(引)儒(仁祖切)囉(引)惹¶
