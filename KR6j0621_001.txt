@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:30.392465
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:39
 #+TITLE: 佛說無量壽大智陀羅尼
 #+PROPERTY: CBETA_ID T21n1389
 #+PROPERTY: ID KR6j0621
